@@ -1,9 +1,0 @@
-{
-    "python.pythonPath": "/opt/anaconda3/envs/COL774/bin/python",
-    "extensions.ignoreRecommendations": true,
-    "files.autoSave": "off",
-    "typescript.tsc.autoDetect": "off",
-    "npm.autoDetect": "off",
-    "debug.allowBreakpointsEverywhere": true,
-    "html.autoClosingTags": false
-}
